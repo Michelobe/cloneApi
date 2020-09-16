@@ -52,6 +52,32 @@
                 "https://images.craigslist.org/00j0j_7PUUdFJxWYq_0cU09G_600x450.jpg",
                 "https://images.craigslist.org/00J0J_Xpk0DXScKl_0cU09G_600x450.jpg"
             ]
+        },
+        {
+            "title": "2001 Honda Civic HX",
+            "listing": "cars-and-trucks",
+            "city": "portland",
+            "category": "for-sale",
+            "price": 2000,
+            "extraDetails": {
+                "vin": "WBAKA8C55BC446879",
+                "mileage": 54985,
+                "transmission": "manual",
+                "fuel": "93 octane",
+                "driveTrain": "AWD",
+                "color": "white",
+                "make": "honda",
+                "model": "civic"
+            },
+            "description": "Low mileage and in excellent condition! This 'Nighthawk Black Pearl' 2007 Acura RDX SH-AWD has the Technology Package! All-Wheel-Drive and very safe! It comes with the Automatic Transmission, Turbocharged 2.3-Liter DOHC i-VTEC Engine, Alloy Wheels, Backup Camera, Climate Control, Heated Leather Seats, GPS Navigation System, Tow Hitch, Power Equipment Group, Cruise Control, Power Sunroof, Acura/ELS Surround Premium AM/FM/XM Sound System, Keyless Entry, Privacy Glass & more! The odometer is 23k miles below market! The odometer is 23k miles below market average! We serviced & detailed this one, too: new front door speakers, new wipers & more! You won't find many at this price that are this nice! Don't hesitate...this won't last long!",
+            "images": [
+                "https://images.craigslist.org/00K0K_hlhe14FoWaD_0CI0pO_600x450.jpg",
+                "https://images.craigslist.org/00w0w_hBufHgnifty_0CI0pO_600x450.jpg",
+                "https://images.craigslist.org/00Q0Q_a5MX8Vau3Bl_0CI0pO_600x450.jpg",
+                "https://images.craigslist.org/00d0d_fKRtxY1ycHJ_0CI0pO_600x450.jpg",
+                "https://images.craigslist.org/00w0w_DWByvo0URW_0CI0pO_600x450.jpg",
+                "https://images.craigslist.org/00Q0Q_a5MX8Vau3Bl_0CI0pO_600x450.jpg"
+            ]
         }
         
     ]
